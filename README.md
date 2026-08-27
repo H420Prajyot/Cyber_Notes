@@ -135,7 +135,7 @@ If you find these checklists useful:
 
 The easiest way to access all my resources is through the central dashboard:
 
-**🔗 [H420 Security Hub](YOUR_GITHUB_PAGES_LINK_HERE)**
+**🔗 [H420 Security Hub](https://h420prajyot.github.io/Cyber_Notes/)**
 
 ---
 
