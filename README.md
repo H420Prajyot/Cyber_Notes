@@ -17,6 +17,7 @@ My interests include:
 - 🔌 API Security
 - 🌐 Network Security
 - 🏢 Active Directory Security
+- 🤖 LLM/AI Security
 - 🎯 Red Teaming & Adversary Simulation
 - 🔎 Security Research
 - 🧪 Vulnerability Research
